@@ -1,0 +1,9 @@
+Letter Dataset:
+The best parameters are {'criterion': 'gini', 'max_depth': 30, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 1000} with a score of 0.96
+
+Mat Dataset:
+The best parameters are {'criterion': 'gini', 'max_depth': 30, 'max_features': 'auto', 'min_samples_split': 10, 'n_estimators': 1000} with a score of 0.93
+
+Congressional Dataset:
+The best parameters are {'criterion': 'gini', 'max_depth': 30, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 1000} with a score of 0.96
+

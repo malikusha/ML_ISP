@@ -1,0 +1,24 @@
+Random Forest Scores - Mat Dataset
+Accuracy : 0.912698
+Precision : 0.914731
+Recall : 0.912698
+F-score : 0.912589
+MCC : 0.827422
+Random Forest Scores - Letter recognition dataset
+Accuracy : 0.965797
+Precision : 0.966390
+Recall : 0.965544
+F-score : 0.965662
+MCC : 0.964453
+Random Forest Scores - Bank clients dataset
+Accuracy : 0.757175
+Precision : 0.555705
+Recall : 0.521890
+F-score : 0.493402
+MCC : 0.044654
+Random Forest Scores - Congressional dataset
+Accuracy : 0.953682
+Precision : 0.952339
+Recall : 0.954655
+F-score : 0.951602
+MCC : 0.906842

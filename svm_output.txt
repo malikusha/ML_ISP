@@ -1,0 +1,8 @@
+Bank clients Dataset:
+The best parameters are {'C': 10, 'gamma': 0.1} with a score of 0.88
+Letter Recognition Dataset:
+The best parameters are {'C': 10, 'gamma': 0.1} with a score of 0.98
+Mat Dataset:
+The best parameters are {'C': 1, 'gamma': 0.01} with a score of 0.96
+Congressional Dataset:
+The best parameters are {'C': 10, 'gamma': 0.01} with a score of 0.96
