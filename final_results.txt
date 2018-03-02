@@ -1,0 +1,48 @@
+Mat Dataset
+Random Forest - Metrics:
+    Accuracy : 0.912698
+    Precision : 0.914731
+    Recall : 0.912698
+    F-score : 0.912589
+    MCC : 0.827422
+SVM Parameters Tuning:
+    The best parameters are {'C': 1, 'gamma': 0.01} with a score of 0.96
+Random Forest Parameters Tuning:
+    The best parameters are {'criterion': 'gini', 'max_depth': 30, 'max_features': 'auto', 'min_samples_split': 10, 'n_estimators': 1000} with a score of 0.93
+
+Letter recognition dataset
+Random Forest - Metrics:
+    Accuracy : 0.965797
+    Precision : 0.966390
+    Recall : 0.965544
+    F-score : 0.965662
+    MCC : 0.964453
+SVM Parameters Tuning:
+    The best parameters are {'C': 10, 'gamma': 0.1} with a score of 0.98
+Random Forest Parameters Tuning:
+    The best parameters are {'criterion': 'gini', 'max_depth': 30, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 1000} with a score of 0.96
+
+Bank clients dataset
+Random Forest - Metrics:
+    Accuracy : 0.757175
+    Precision : 0.555705
+    Recall : 0.521890
+    F-score : 0.493402
+    MCC : 0.044654
+SVM Parameters Tuning:
+    The best parameters are {'C': 10, 'gamma': 0.1} with a score of 0.88
+Random Forest Parameters Tuning:
+    The best parameters are {'criterion': 'gini', 'max_depth': 30, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 1000} with a score of 0.96
+
+Congressional dataset
+Random Forest - Metrics:
+    Accuracy : 0.953682
+    Precision : 0.952339
+    Recall : 0.954655
+    F-score : 0.951602
+    MCC : 0.906842
+SVM Parameters Tuning:
+    The best parameters are {'C': 10, 'gamma': 0.01} with a score of 0.96
+Random Forest Parameters Tuning:
+    The best parameters are {'criterion': 'gini', 'max_depth': 30, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 1000} with a score of 0.96
+
