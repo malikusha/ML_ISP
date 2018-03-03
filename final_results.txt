@@ -32,7 +32,7 @@ Random Forest - Metrics:
 SVM Parameters Tuning:
     The best parameters are {'C': 10, 'gamma': 0.1} with a score of 0.88
 Random Forest Parameters Tuning:
-    The best parameters are {'criterion': 'gini', 'max_depth': 30, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 1000} with a score of 0.96
+    The best parameters are {'criterion': 'gini', 'max_depth': 37, 'max_features': 'log2', 'min_samples_split': 10, 'n_estimators': 1000} with a score of 0.64
 
 Congressional dataset
 Random Forest - Metrics:
